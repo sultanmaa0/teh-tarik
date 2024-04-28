@@ -1,7 +1,7 @@
 {
-  "name": "teh-tarik",
+  "name": "teh-tarik12345",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -12,5 +12,21 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sultanmaa0/teh-tarik.git"
+  },
+  "keywords": [
+    "teh"
+  ],
+  "author": "sultanmaa0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sultanmaa0/teh-tarik/issues"
+  },
+  "homepage": "https://github.com/sultanmaa0/teh-tarik#readme"
 }
